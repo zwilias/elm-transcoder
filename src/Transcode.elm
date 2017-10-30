@@ -11,12 +11,12 @@ that used in `elm-json-pipeline`.
 
 # Supplying values
 
-@docs supply, supplyMaybe, supplyResult, hardcoded
+@docs supply, supplyMaybe, supplyResult, hardcoded, fail, succeed
 
 
 # Combining and chaining
 
-@docs map, andMap, map2, map3, map4, map5
+@docs map, andMap, andThen, map2, map3, map4, map5, map6, map7
 
 -}
 
